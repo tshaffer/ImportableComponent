@@ -13,7 +13,7 @@ export default class ImportableComponent extends React.Component<icProps, object
 
     return (
       <div>
-        <div>Pizza from flipadelphia!</div>
+        <div>Eat Pizza Every Day!</div>
       </div>
     );
   }
